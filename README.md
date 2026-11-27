@@ -1,7 +1,6 @@
 # 23/11/2026 Curso Big Data Ironhack
-25/11/2026
-| 02 | Mi primer notebook | [sesion-02-primer-notebook.ipynb](practicas/sesion-02-primer-notebook.ipynb) |
-
+25/11/2026 | 02 | Mi primer notebook | https://github.com/DrinaLuburich/BI/blob/main/practicas/sesion-02-primer-notebook.ipynb
+27/11/2026 | 03 | Cadenas, listas, arrays | https://github.com/DrinaLuburich/BI/blob/main/practicas/sesion_03_tipos_de_datos.ipynb
 
 # Big Data y Business Intelligence
  
