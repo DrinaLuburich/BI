@@ -1,7 +1,4 @@
 # 23/11/2026 Curso Big Data Ironhack
-25/11/2026 | 02 | Mi primer notebook | https://github.com/DrinaLuburich/BI/blob/main/practicas/sesion-02-primer-notebook.ipynb
-27/11/2026 | 03 | Cadenas, listas, arrays | https://github.com/DrinaLuburich/BI/blob/main/practicas/sesion_03_tipos_de_datos.ipynb
-
 # Big Data y Business Intelligence
  
 Repositorio de prácticas del curso IFCT0134 de Ironhack.
@@ -30,4 +27,11 @@ Repositorio de prácticas del curso IFCT0134 de Ironhack.
  
 | Sesión | Práctica | Archivo |
 |---|---|---|
-| 01 | Mi repositorio del curso | Este README |
+| 01 | Mi repositorio del curso | README.md |
+| 02 | Primer notebook | practicas/sesion-02-primer-notebook.ipynb
+| 03 | Listas, arrays | practicas/sesion_03_tipos_de_datos.ipynb |
+
+
+
+
+
